@@ -11,10 +11,10 @@ service:
     icon: ti-id-badge
     content: Modern way to verify the identity of your customers, no need of scanner,
       no paper work!
-  - name: Media &amp; Advertisement
-    icon: ti-blackboard
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - name: Live Video Detection
+    icon: ti-video-camera
+    content: Validate identity of your customer real-time using their device's video
+      camera
   - name: Graphic Design
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
