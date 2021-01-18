@@ -7,10 +7,10 @@ service:
     icon: ti-world
     content: We help customers across the globe with variety of compliance framework
       support
-  - name: Responsive Design
+  - name: Digital Identity
     icon: ti-layout
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: Modern way to verify the identity of your customers, no need of scanner,
+      no paper work!
   - name: Media &amp; Advertisement
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
