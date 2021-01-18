@@ -19,10 +19,10 @@ service:
     icon: ti-lock
     content: Avoid potential identity fraud with the most secure, state-of-the-art
       machine learning and artificial intelligence technology
-  - name: Apps Development
-    icon: ti-package
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - name: Remove paperwork
+    icon: ti-files
+    content: Remove all the paperwork you have to do for anti-money laundering (AML)
+      checks
   - name: Networking
     icon: ti-pulse
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
