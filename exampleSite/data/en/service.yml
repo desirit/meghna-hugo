@@ -15,10 +15,10 @@ service:
     icon: ti-video-camera
     content: Validate identity of your customer real-time using their device's video
       camera
-  - name: Graphic Design
-    icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - name: Identity Fraud
+    icon: ti-lock
+    content: Avoid potential identity fraud with the most secure, state-of-the-art
+      machine learning and artificial intelligence technology
   - name: Apps Development
     icon: ti-package
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
