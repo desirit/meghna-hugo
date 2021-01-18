@@ -5,8 +5,7 @@ banner:
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
   title: Experience the new way
-  content: Digital Customer Onboarding - A new way for Customer Due Diligence for
-    KYC and AML
+  content: Digitally Onboard Your Customer Onboarding - Less Worry for KYC & AML
   button:
     enable: true
     label: Explore Us
