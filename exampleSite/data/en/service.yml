@@ -23,7 +23,6 @@ service:
     icon: ti-files
     content: Remove all the paperwork you have to do for anti-money laundering (AML)
       checks
-  - name: Networking
+  - name: Analytics
     icon: ti-pulse
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: All the reporting and analytics you need is available at your fingertips.
