@@ -8,7 +8,7 @@ service:
     content: We help customers across the globe with variety of compliance framework
       support
   - name: Digital Identity
-    icon: ti-layout
+    icon: ti-id-badge
     content: Modern way to verify the identity of your customers, no need of scanner,
       no paper work!
   - name: Media &amp; Advertisement
